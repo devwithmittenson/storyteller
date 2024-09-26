@@ -49,6 +49,6 @@
   "socket": true,
   "url": "https://github.com/devwithmittenson/storyteller",
   "manifest": "https://raw.githubusercontent.com/devwithmittenson/storyteller/refs/heads/main/module.json",
-  "download": "https://github.com/devwithmittenson/storyteller/archive/refs/tags/v1.2.3.zip",
+  "download": "https://github.com/devwithmittenson/storyteller/releases/download/v.1.2.3/storyteller-v1.2.3.zip",
   "id": "storyteller"
 }
